@@ -1,0 +1,29 @@
+:root{
+    --link: red;
+    border-top: 0;
+}
+
+.nicediv{
+    background-color: var(--lesslight);
+    padding: 1em;
+}
+
+a:active{
+	outline: none;
+}
+
+.code{
+	background-color: var(--lesslight);
+	color: var(--dark);
+	font-family: monospace;
+}
+
+video{
+	display: block;
+	margin: 1em auto;
+}
+
+img{
+	display: block;
+	margin: 1em auto;
+}
