@@ -1,1 +1,1 @@
-# GNX XDelta Archive
+# GNX Delta Archive
