@@ -22,6 +22,8 @@
 	},
 	"urls": {
 		"itch_1.3.11": "https://github.com/Jadwick/GNX-Delta-Archive/raw/refs/heads/master/fossil/gnx1.3.11_gn1.33_itch.fossil",
-		"steam_1.3.11": "https://github.com/Jadwick/GNX-Delta-Archive/raw/refs/heads/master/fossil/gnx1.3.11_gn1.33_steam.fossil"
+		"steam_1.3.11": "https://github.com/Jadwick/GNX-Delta-Archive/raw/refs/heads/master/fossil/gnx1.3.11_gn1.33_steam.fossil",
+		"itch_1.3.11.1": "https://github.com/Jadwick/GNX-Delta-Archive/raw/refs/heads/master/fossil/gnx1.3.11.1_gn1.35_itch.fossil",
+		"steam_1.3.11.1": "https://github.com/Jadwick/GNX-Delta-Archive/raw/refs/heads/master/fossil/gnx1.3.11.1_gn1.35_steam.fossil"
 	}
 }
