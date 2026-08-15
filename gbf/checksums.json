@@ -1,23 +1,29 @@
 {
 	"gbf_version": "1.0.0",
 	"latest": {
-		"original_itch": "original_itch_1.33",
-		"original_steam": "original_steam_1.33",
-		"patched_itch": "patched_itch_1.3.11",
-		"patched_steam": "patched_steam_1.3.11"
+		"original_itch": "original_itch_1.35",
+		"original_steam": "original_steam_1.35",
+		"patched_itch": "patched_itch_1.3.11.1",
+		"patched_steam": "patched_steam_1.3.11.1"
 	},
 	"checksums" : {
 		"b8dfaf992a2cd34b10f07bf3237961067bd315d7b1e6ff30dd8e1b003b953c58": "original_itch_1.33",
 		"919a78483e6eea1eb0e008043ae0cd7cb9fca248a2d6a9a2323139aeb2c7ffde": "original_steam_1.33",
+		"08709e8a8a474de68f2246b283945849c9d121abc7d5e2def2e7632efb235172": "original_itch_1.35",
+		"8005ebd4a226a9955da9b0a7b15cf96df911f4609beef3423126dd5a1bfcb1af": "original_steam_1.35",
 		"9a0771e11b3595317c75a89197e8d255615c1b4dff2bda0c561937e565a17c66": "patched_itch_1.3.9",
 		"0fce99c86d958e5c374753b5d144a61138a449a4a8c765590d4964aecc9eb0dd": "patched_steam_1.3.9",
 		"9171fa5d6669c8222671a01dece91326ae5ac5dcf409fd5c68cc928ad303ae53": "patched_itch_1.3.10",
 		"9ab76c0159e2301f383263daa28838b22608a8142563cf6163bca4fec250b1a3": "patched_steam_1.3.10",
 		"e6a15dbe76a4efe9cc8b3d346add06d308de778ae56b7bd4e7fab40593fb92e3": "patched_itch_1.3.11",
-		"4b1c5e92450fe18e12377af1d4dfbbd49ac3a8b61ef4bcf9b843f89195ea0dae": "patched_steam_1.3.11"
+		"4b1c5e92450fe18e12377af1d4dfbbd49ac3a8b61ef4bcf9b843f89195ea0dae": "patched_steam_1.3.11",
+		"e3390e6489cec4a27286383e8883e243398c4d3ed19ed33252433fbda462b48e": "patched_itch_1.3.11.1",
+		"23622eb598ad179b2fd6fb7bb47a6d23611f4131ea79a84555a5a4e7002d19f6": "patched_steam_1.3.11.1"
 	},
 	"urls": {
 		"itch_1.3.11": "https://github.com/Jadwick/GNX-Delta-Archive/raw/refs/heads/master/fossil/gnx1.3.11_gn1.33_itch.fossil",
-		"steam_1.3.11": "https://github.com/Jadwick/GNX-Delta-Archive/raw/refs/heads/master/fossil/gnx1.3.11_gn1.33_steam.fossil"
+		"steam_1.3.11": "https://github.com/Jadwick/GNX-Delta-Archive/raw/refs/heads/master/fossil/gnx1.3.11_gn1.33_steam.fossil",
+		"itch_1.3.11.1": "https://github.com/Jadwick/GNX-Delta-Archive/raw/refs/heads/master/fossil/gnx1.3.11.1_gn1.35_itch.fossil",
+		"steam_1.3.11.1": "https://github.com/Jadwick/GNX-Delta-Archive/raw/refs/heads/master/fossil/gnx1.3.11.1_gn1.35_steam.fossil"
 	}
 }
