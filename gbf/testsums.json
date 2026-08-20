@@ -1,5 +1,5 @@
 {
-	"gbf_version": "1.0.1",
+	"gbf_version": "1.1.0",
 	"latest": {
 		"original_itch": "original_itch_1.36",
 		"original_steam": "original_steam_1.36b",
@@ -25,7 +25,9 @@
 		"9c0ff799af181046f130076d4bae256ad4d08b485c978ec9e577e3c7ec6ab6ee": "patched_itch_1.3.11.2",
 		"a22b93fd62f952681de0b46e0ccadf6b1b9c73c842fbdeec2e49432e3cf77e6c": "patched_steam_1.3.11.2",
 		"77580db641c69e88f9e0828cd4883babcf5010756e4ffb99c09cb061493e5993": "patched_itch_1.3.11.3",
-		"4a9e0741d104f6884d04868c46f34fb0331be2a178535a8ee36277e8ac4a5f88": "patched_steam_1.3.11.3"
+		"4a9e0741d104f6884d04868c46f34fb0331be2a178535a8ee36277e8ac4a5f88": "patched_steam_1.3.11.3",
+		"1bd74b92ec6978ef20b2a83f1dc53193636558f7c06dbbe7e92c8f8d72d211d7": "patched_itch_1.3.11.4",
+		"89c6431d6a9977606c47a319dd9af8c22ce02ce0d9fb68db33f9cd304e45d097": "patched_steam_1.3.11.4"
 	},
 	"urls": {
 		"itch_1.3.11": "https://github.com/Jadwick/GNX-Delta-Archive/raw/refs/heads/master/fossil/gnx1.3.11_gn1.33_itch.fossil",
@@ -35,6 +37,17 @@
 		"itch_1.3.11.2": "https://github.com/Jadwick/GNX-Delta-Archive/raw/refs/heads/master/fossil/gnx1.3.11.2_gn1.36_itch.fossil",
 		"steam_1.3.11.2": "https://github.com/Jadwick/GNX-Delta-Archive/raw/refs/heads/master/fossil/gnx1.3.11.2_gn1.36_steam.fossil",
 		"itch_1.3.11.3": "https://github.com/Jadwick/GNX-Delta-Archive/raw/refs/heads/master/fossil/gnx1.3.11.3_gn1.36b_itch.fossil",
-		"steam_1.3.11.3": "https://github.com/Jadwick/GNX-Delta-Archive/raw/refs/heads/master/fossil/gnx1.3.11.3_gn1.36b_steam.fossil"
+		"steam_1.3.11.3": "https://github.com/Jadwick/GNX-Delta-Archive/raw/refs/heads/master/fossil/gnx1.3.11.3_gn1.36b_steam.fossil",
+		"itch_1.3.11.4": "https://github.com/Jadwick/GNX-Delta-Archive/raw/refs/heads/master/fossil/gnx1.3.11.4_gn1.36b_itch.fossil",
+		"steam_1.3.11.4": "https://github.com/Jadwick/GNX-Delta-Archive/raw/refs/heads/master/fossil/gnx1.3.11.4_gn1.36b_steam.fossil"
+	},
+	"compatable": {
+		"original_itch_1.33": "itch_1.3.11",
+		"original_steam_1.33": "steam_1.3.11",
+		"original_itch_1.35": "itch_1.3.11.1",
+		"original_steam_1.35": "steam_1.3.11.1",
+		"original_itch_1.36": "itch_1.3.11.4",
+		"original_steam_1.36": "steam_1.3.11.2",
+		"original_steam_1.36b": "steam_1.3.11.4"
 	}
 }
