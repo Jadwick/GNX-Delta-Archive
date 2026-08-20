@@ -3,8 +3,8 @@
 	"latest": {
 		"original_itch": "original_itch_1.36",
 		"original_steam": "original_steam_1.36b",
-		"patched_itch": "patched_itch_1.3.11.3",
-		"patched_steam": "patched_steam_1.3.11.3"
+		"patched_itch": "patched_itch_1.3.11.4",
+		"patched_steam": "patched_steam_1.3.11.4"
 	},
 	"checksums" : {
 		"b8dfaf992a2cd34b10f07bf3237961067bd315d7b1e6ff30dd8e1b003b953c58": "original_itch_1.33",
