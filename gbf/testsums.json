@@ -1,10 +1,10 @@
 {
 	"gbf_version": "1.1.2",
 	"latest": {
-		"original_itch": "original_itch_1.37",
-		"original_steam": "original_steam_1.37",
-		"patched_itch": "patched_itch_1.3.11.7",
-		"patched_steam": "patched_steam_1.3.11.7"
+		"original_itch": "original_itch_1.38",
+		"original_steam": "original_steam_1.38",
+		"patched_itch": "patched_itch_1.3.11.8",
+		"patched_steam": "patched_steam_1.3.11.8"
 	},
 	"checksums" : {
 		"b8dfaf992a2cd34b10f07bf3237961067bd315d7b1e6ff30dd8e1b003b953c58": "original_itch_1.33",
@@ -16,6 +16,8 @@
 		"43da89d26474a2b938c1a92471d16f2b0fe0f0b12e229800ed62d68fc77f6421": "original_steam_1.36b",
 		"49360747a88409eaf1e2dcd6f53fd29ca532252f0c5ded1e970d4aa90e4c9dde": "original_itch_1.37",
 		"153c110e147b5260f5d6c0aa78aab85b0077aecfd50da3a4b1abba833415d84f": "original_steam_1.37",
+		"3e9406810142545fa5ef72c2400f6ada5c1f305df0c02933c5971dfc2acb5cff": "original_itch_1.38",
+		"f731cdcf09eefb265045eb018bac7dd0db4e71a60b6c5f7e572a1ea72abdce9b": "original_steam_1.38",
 		"9a0771e11b3595317c75a89197e8d255615c1b4dff2bda0c561937e565a17c66": "patched_itch_1.3.9",
 		"0fce99c86d958e5c374753b5d144a61138a449a4a8c765590d4964aecc9eb0dd": "patched_steam_1.3.9",
 		"9171fa5d6669c8222671a01dece91326ae5ac5dcf409fd5c68cc928ad303ae53": "patched_itch_1.3.10",
@@ -35,7 +37,9 @@
 		"2539856c4e5a96c95652099bc917f1f50af51a8cf0ab098562bbc0c83f5dfc7b": "patched_itch_1.3.11.6",
 		"e00e811cd5fd2099b888e20d9e58f18e1b4758d8ca84f159b7bc19b13dd24dbc": "patched_steam_1.3.11.6",
 		"a91ad57242c05157d413dc2718db13dd7eb90668cc0b24b0ce8d177820fb394b": "patched_itch_1.3.11.7",
-		"d37a365430ffa33c5b6619ce0a78756cb4ee2c659be8a5c3e1c0ce0993799b76": "patched_steam_1.3.11.7"
+		"d37a365430ffa33c5b6619ce0a78756cb4ee2c659be8a5c3e1c0ce0993799b76": "patched_steam_1.3.11.7",
+		"b1a3745197df69b0e79fb20db6bc2a4ea9c7c12ae56f2b73cdf195865b7a72ab": "patched_itch_1.3.11.8",
+		"78824b8a3d47a35cb332b77d5baac75aeba1c810244edc950956a84142663fb0": "patched_steam_1.3.11.8"
 	},
 	"urls": {
 		"itch_1.3.11": "https://github.com/Jadwick/GNX-Delta-Archive/raw/refs/heads/master/fossil/gnx1.3.11_gn1.33_itch.fossil",
@@ -53,7 +57,9 @@
 		"itch_1.3.11.6": "https://github.com/Jadwick/GNX-Delta-Archive/raw/refs/heads/master/fossil/gnx1.3.11.6_gn1.37_itch.fossil",
 		"steam_1.3.11.6": "https://github.com/Jadwick/GNX-Delta-Archive/raw/refs/heads/master/fossil/gnx1.3.11.6_gn1.37_steam.fossil",
 		"itch_1.3.11.7": "https://github.com/Jadwick/GNX-Delta-Archive/raw/refs/heads/master/fossil/gnx1.3.11.7_gn1.37_itch.fossil",
-		"steam_1.3.11.7": "https://github.com/Jadwick/GNX-Delta-Archive/raw/refs/heads/master/fossil/gnx1.3.11.7_gn1.37_steam.fossil"
+		"steam_1.3.11.7": "https://github.com/Jadwick/GNX-Delta-Archive/raw/refs/heads/master/fossil/gnx1.3.11.7_gn1.37_steam.fossil",
+		"itch_1.3.11.8": "https://github.com/Jadwick/GNX-Delta-Archive/raw/refs/heads/master/fossil/gnx1.3.11.8_gn1.38_itch.fossil",
+		"steam_1.3.11.8": "https://github.com/Jadwick/GNX-Delta-Archive/raw/refs/heads/master/fossil/gnx1.3.11.8_gn1.38_steam.fossil"
 	},
 	"compatable": {
 		"original_itch_1.33": "itch_1.3.11",
@@ -64,6 +70,8 @@
 		"original_steam_1.36": "steam_1.3.11.2",
 		"original_steam_1.36b": "steam_1.3.11.5",
 		"original_itch_1.37": "itch_1.3.11.7",
-		"original_steam_1.37": "steam_1.3.11.7"
+		"original_steam_1.37": "steam_1.3.11.7",
+		"original_itch_1.38": "itch_1.3.11.8",
+		"original_steam_1.38": "steam_1.3.11.8"
 	}
 }
